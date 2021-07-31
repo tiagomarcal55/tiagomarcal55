@@ -1,4 +1,4 @@
-## Oi! Eu sou a Tiago Marçal
+## Olá! Sou o Tiago Marçal
 <div>
   <a href="https://github.com/tiagomarcal55">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiagomarcal55&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
